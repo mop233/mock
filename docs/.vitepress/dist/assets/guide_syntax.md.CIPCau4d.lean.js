@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.Cj8aaQFK.js";const g=JSON.parse('{"title":"语法规范","description":"","frontmatter":{},"headers":[],"relativePath":"guide/syntax.md","filePath":"guide/syntax.md"}'),l={name:"guide/syntax.md"},p=n("",39),t=[p];function e(h,k,d,E,o,c){return a(),i("div",null,t)}const y=s(l,[["render",e]]);export{g as __pageData,y as default};

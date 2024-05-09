@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a3 as t}from"./chunks/framework.Cj8aaQFK.js";const u=JSON.parse('{"title":"Mock.vaild()","description":"","frontmatter":{},"headers":[],"relativePath":"api/vaild.md","filePath":"api/vaild.md"}'),l={name:"api/vaild.md"},n=t("",9),e=[n];function p(h,k,d,E,o,r){return i(),a("div",null,e)}const g=s(l,[["render",p]]);export{u as __pageData,g as default};
