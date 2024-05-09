@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a3 as e}from"./chunks/framework.Cj8aaQFK.js";const E=JSON.parse('{"title":"Mock.setup()","description":"","frontmatter":{},"headers":[],"relativePath":"api/setup.md","filePath":"api/setup.md"}'),t={name:"api/setup.md"},n=e("",9),p=[n];function l(h,o,c,d,k,r){return i(),a("div",null,p)}const g=s(t,[["render",l]]);export{E as __pageData,g as default};
