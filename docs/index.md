@@ -7,8 +7,8 @@ hero:
   name: 'Mock.js'
   tagline: '生成随机数据，拦截 Ajax 请求'
   image:
-    light: /logo.svg
-    dark: /logo-dark.svg
+    light: https://raw.gitmirror.com/mop233/mock/main/docs/public/logo.svg
+    dark: https://raw.gitmirror.com/mop233/mock/main/docs/public/logo-dark.svg
   actions:
     - theme: brand
       text: 快速开始
