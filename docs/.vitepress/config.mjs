@@ -5,12 +5,23 @@ export default defineConfig({
   base: '/mock/',
   title: 'Mock.js',
   description: '生成随机数据，拦截 Ajax 请求',
-  head: [['link', { rel: 'icon', href: '/mock/logo.svg' }]],
+  head: [
+    [
+      'link',
+      {
+        rel: 'icon',
+        href: 'https://raw.gitmirror.com/mop233/mock/main/docs/public/logo.svg'
+      }
+    ]
+  ],
   cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: { light: '/logo.svg', dark: '/logo-dark.svg' },
+    logo: {
+      light: 'https://raw.gitmirror.com/mop233/mock/main/docs/public/logo.svg',
+      dark: 'https://raw.gitmirror.com/mop233/mock/main/docs/public/logo-dark.svg'
+    },
 
     outline: { label: '本页目录', level: [2, 3] },
     sidebarMenuLabel: '菜单',
